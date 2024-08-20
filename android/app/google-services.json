@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38078461681",
+    "project_id": "hero-chat-38bb2",
+    "storage_bucket": "hero-chat-38bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38078461681:android:a6578597b34e02c4395b50",
+        "android_client_info": {
+          "package_name": "com.example.hero_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60ckTCqHD4MImjRZ_9LrRG8T3skzgLPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
